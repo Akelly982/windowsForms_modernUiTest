@@ -1,0 +1,13 @@
+C:\Users\Akell\Desktop\repo\windowsForms_modernUiTest\modularFlatUi_youtube\modularFlatUi_youtube\bin\Debug\modularFlatUi_youtube.exe.config
+C:\Users\Akell\Desktop\repo\windowsForms_modernUiTest\modularFlatUi_youtube\modularFlatUi_youtube\bin\Debug\modularFlatUi_youtube.exe
+C:\Users\Akell\Desktop\repo\windowsForms_modernUiTest\modularFlatUi_youtube\modularFlatUi_youtube\bin\Debug\modularFlatUi_youtube.pdb
+C:\Users\Akell\Desktop\repo\windowsForms_modernUiTest\modularFlatUi_youtube\modularFlatUi_youtube\obj\Debug\modularFlatUi_youtube.Form1.resources
+C:\Users\Akell\Desktop\repo\windowsForms_modernUiTest\modularFlatUi_youtube\modularFlatUi_youtube\obj\Debug\modularFlatUi_youtube.Properties.Resources.resources
+C:\Users\Akell\Desktop\repo\windowsForms_modernUiTest\modularFlatUi_youtube\modularFlatUi_youtube\obj\Debug\modularFlatUi_youtube.csproj.GenerateResource.cache
+C:\Users\Akell\Desktop\repo\windowsForms_modernUiTest\modularFlatUi_youtube\modularFlatUi_youtube\obj\Debug\modularFlatUi_youtube.csproj.CoreCompileInputs.cache
+C:\Users\Akell\Desktop\repo\windowsForms_modernUiTest\modularFlatUi_youtube\modularFlatUi_youtube\obj\Debug\modularFlatUi_youtube.exe
+C:\Users\Akell\Desktop\repo\windowsForms_modernUiTest\modularFlatUi_youtube\modularFlatUi_youtube\obj\Debug\modularFlatUi_youtube.pdb
+C:\Users\Akell\Desktop\repo\windowsForms_modernUiTest\modularFlatUi_youtube\modularFlatUi_youtube\obj\Debug\modularFlatUi_youtube.csprojAssemblyReference.cache
+C:\Users\Akell\Desktop\repo\windowsForms_modernUiTest\modularFlatUi_youtube\modularFlatUi_youtube\obj\Debug\modularFlatUi_youtube.Form2.resources
+C:\Users\Akell\Desktop\repo\windowsForms_modernUiTest\modularFlatUi_youtube\modularFlatUi_youtube\obj\Debug\modularFlatUi_youtube.Form3.resources
+C:\Users\Akell\Desktop\repo\windowsForms_modernUiTest\modularFlatUi_youtube\modularFlatUi_youtube\obj\Debug\modularFlatUi_youtube.Form4.resources
